@@ -30,7 +30,7 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/utshaghosh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/utsha-ghosh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:utsaghosh2024@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
   <a href="https://medium.com/@utshaghosh15" target="_blank"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
 </p>
