@@ -24,8 +24,7 @@
 ### 🌱 About Me
 - 🔭 Currently working on **AI-driven applications** (LangChain, Vector DBs, Conversational AI).  
 - 🌱 Learning **System Design & AI Engineering**.  
-- 💬 Ask me about **Java, React.js, Node.js, Databases, Cloud, and AI projects**.  
-- ⚡ Fun fact: I love blending **software engineering with education** — from building e-learning platforms to teaching STEM.  
+- 💬 Ask me about **Java, React.js, Node.js, Databases, Cloud, and AI projects**.   
 
 ---
 
