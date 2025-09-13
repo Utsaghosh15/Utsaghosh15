@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Utsha Ghosh  
 
 
-💻 A Full-Stack Software Engineer passionate about designing scalable distributed systems and integrating LLMs and AI into real-world applications.
-🚀 I thrive on solving complex problems, leveraging modern technologies, and continuously learning to push the boundaries of AI-driven, high-performance software.
+💻 A Full-Stack Software Engineer passionate about designing scalable distributed systems and integrating LLMs and AI into real-world applications.<br/>
+🚀 I thrive on solving complex problems, leveraging modern technologies, and continuously learning to push the boundaries of AI-driven, high-performance software.<br/>
 
 ---
 
